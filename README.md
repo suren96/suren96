@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendhar</h1>
 <h3 align="center">A passionate robotic enthusiastic</h3>
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5d36d32d1438f10001b4e931%2F1564377419437-WDTIT5PEECBX8ZATD7HS%2FWalle.gif%3Fformat%3D500w&imgrefurl=https%3A%2F%2Faliciamarder.com%2Fwall-e&tbnid=XK0aCuG5z9lpxM&vet=12ahUKEwjslKmLsdz6AhUGuFMKHeuVDWoQMyg8egQIARBv..i&docid=Ea-6xPml-VCqnM&w=400&h=225&q=wall%20e%20%20gif&hl=en&ved=2ahUKEwjslKmLsdz6AhUGuFMKHeuVDWoQMyg8egQIARBv- 🌱 I’m currently learning **ROS, Gazebo, Rviz, OpenCV**
+- 🌱 I’m currently learning **ROS, Gazebo, Rviz, OpenCV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
